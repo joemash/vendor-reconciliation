@@ -1,4 +1,4 @@
-# Niambie Supplier Reconciliation System.
+# `NIAMBIE_V1.1` Supplier Reconciliation System.
 
 
 - This is  an Excel Vba application that helps Accountants reconcile large supplier or customer data sets.
@@ -11,9 +11,9 @@
 - Full Supplier Reconciliation report.
 
 ## How To
-
+- Watch the `niambie.mp4` video included in this project.
 - Open `NIAMBIE_V1.1.xlsm` .
-- Ensure Macrosettings in security is set to enabled. 
+- Ensure excel macro security settings is set to enabled. 
 - Click on ledger and copy paste the appropriate data.
 - Click on statement and copy paste the appropriate data.
 - Click on process and wait for it to finish.
@@ -22,8 +22,7 @@
 
 Want to see `Niambie Supplier Reconciliation System` in action?
 
-![Output sample](https://github.com/joemash/hrapp/blob/master/rec.gif)
-Watch the video included in the project.
+![Output sample](https://github.com/joemash/vendor-reconciliation/blob/master/rec.gif)
 
 ## License
 
